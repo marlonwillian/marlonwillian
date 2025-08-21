@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marlon, estudante em Análise e Desenvolvimento de Sistemas.
+## Olá! Eu sou o Marlon, estudante de Engenharia de Software.
 
 ### Tecnologias que eu uso:
 <div style="display: inline_block"><br/>
